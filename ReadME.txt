@@ -1,4 +1,4 @@
-Grocery Billing sysytem by DIGVIJAY RAVINDRA DHANGAR----->
+Grocery Billing sysytem by DIGVIJAY DHANGAR----->
 
 files:
 index.py
